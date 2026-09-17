@@ -4,7 +4,7 @@
 
 NoyBochor is a collection of experimental AI projects built with curiosity, Python, questionable ideas, and a lot of messing around with code. 🧠
 
-## 🤖 Projects
+## Projects
 
 ### Kotha
 
@@ -25,21 +25,21 @@ It currently features:
 Kotha is intentionally experimental. It isn't a modern large language model — it's a homemade AI experiment designed to learn, respond, and occasionally produce absolutely ridiculous answers.
 
 > [!CAUTION]
-> Use Kotha 1.0 and 1.0.1 at your own risk, it may sometimes answer incorrectly.
+> Use Kotha 1.0, 1.0.1 and 2.0's drafts at your own risk, like every AI, it sometimes answers incorrectly but confidently.
 
 ### Chobi
 
 **Planned**
 
-An experimental computer-vision AI using OpenCV.
+An experimental image AI using OpenCV.
 
-The idea is similar to visual search tools: give Chobi an image, have it analyze what it sees, and return a useful summary instead of simply throwing a list of links at you.
+The idea is similar to visual search tools: give Chobi an image, have it analyze what it sees, and return a meaningful summary instead of simply throwing a list of links, sources and a small summary at you.
 
 ### Biggani
 
 **Future project**
 
-Biggani is planned as a combination of Kotha and Chobi, with more advanced reasoning and deeper analysis.
+Biggani is planned as a combination of Kotha and Chobi, with more advanced reasoning and deeper analysis. Kind of like an LLM.
 
 Think:
 
@@ -82,11 +82,11 @@ Things may behave strangely.
 
 Things may answer `2 + 3` with `1 + 1 = 7`.
 
-That's part of the fun.
+That's part of the fun and joy.
 
 ## 📜 License
 
-No license has been selected yet.
+None, free to use, modify and sell.
 
 ## 👤 Creator
 
